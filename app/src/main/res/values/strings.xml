@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjerciciosLinearLayout</string>
+    <string name="button_text_SI">SI</string>
+    <string name="button_text_NO">NO</string>
+    <string name="button_text_AVECES">A VECES</string>
+</resources>
